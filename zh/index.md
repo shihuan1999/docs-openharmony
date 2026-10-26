@@ -16,8 +16,4 @@
 - [K1 OH5.0（即将废弃）](k1_oh5.0/index.md)
 - [K1 OH6.1](k1_oh6.1/index.md)
 - [K3 OH6.1](k3_oh6.1/index.md)
-- 技术专题
-  - [AI应用](ai_application/index.md)
-  - [Skills](skills/index.md)
-  - [功耗优化](power_debug/index.md)
-  - [浏览器](web/index.md)
+- [技术专题](technical_topics/index.md)

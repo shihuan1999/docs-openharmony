@@ -14,7 +14,7 @@ sidebar_position: 3
 # K1 OH6.1
 
 - [1. K1_OH6.1简介](1_K1_OH6.1_intro.md)
-- [2. K1_OH6.1_Release下载编译烧录说明](2_K1_OH6.1_Release_build_flash.md)
+- [2. K1_OH6.1_Release下载编译烧录说明（即将弃用）](2_K1_OH6.1_Release_build_flash.md)
 - [3. K1_OH6.1_LTS下载编译烧录说明](3_K1_OH6.1_LTS_build_flash.md)
 - [4. K1_OH6.1方案添加移植说明](4_K1_OH6.1_porting.md)
 - [5. K1_OH6.1系统定制说明](5_K1_OH6.1_customization.md)
