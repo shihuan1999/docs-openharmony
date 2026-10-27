@@ -7,7 +7,7 @@
  * @Date: 2026-10-27
  * @Description: AI推理库专题导航页
 -->
-sidebar_position: 10
+sidebar_position: 6
 
 # AI推理库专题
 
